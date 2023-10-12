@@ -1,0 +1,11 @@
+﻿  Account.cpp
+C:\Users\qmfoh\source\repos\study1\Project_OOP_7\Project_OOP_7\Account.cpp(7,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  AccountHandler.cpp
+C:\Users\qmfoh\source\repos\study1\Project_OOP_7\Project_OOP_7\AccountHandler.cpp(1,1): warning C4828: 파일에 0xaf3 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\qmfoh\source\repos\study1\Project_OOP_7\Project_OOP_7\NormalAccount.h(21,26): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qmfoh\source\repos\study1\Project_OOP_7\Project_OOP_7\HighCreditAccount.h(21,26): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BankingSystemMain.cpp
+C:\Users\qmfoh\source\repos\study1\Project_OOP_7\Project_OOP_7\NormalAccount.h(21,26): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qmfoh\source\repos\study1\Project_OOP_7\Project_OOP_7\HighCreditAccount.h(21,26): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Project_OOP_7.vcxproj -> C:\Users\qmfoh\source\repos\study1\Project_OOP_7\x64\Debug\Project_OOP_7.exe
